@@ -3,7 +3,7 @@ Pagina_Mercado_Pago
 Projeto de uma página web inspirada no Mercado Pago, desenvolvida com o objetivo de praticar habilidades em HTML, CSS e JavaScript.
 
 📸 Captura de Tela
-![Print da imagem inicial da página do Mercado Pago](screenshot.png)
+![Print da imagem inicial da página do Mercado Pago](screenshot.PNG)
 
 🚀 Tecnologias Utilizadas
 HTML5: Estruturação da página
