@@ -1,38 +1,42 @@
-Pagina_Mercado_Pago
 
-Projeto de uma página web inspirada no Mercado Pago, desenvolvida com o objetivo de praticar habilidades em HTML, CSS e JavaScript.
+# 🏦 Pagina Mercado Pago
 
-📸 Captura de Tela
-![Print da imagem inicial da página do Mercado Pago](screenshot.PNG)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
-🚀 Tecnologias Utilizadas
-HTML5: Estruturação da página
+Projeto de uma página web inspirada no Mercado Pago, desenvolvida com o objetivo de praticar habilidades em **HTML, CSS e JavaScript**.
 
-CSS3: Estilização e layout
+## 📸 Captura de Tela
 
-JavaScript: Funcionalidades interativas
+![Captura de Tela do Projeto](screenshot.PNG)
 
-📦 Como Executar o Projeto
-Clone este repositório:
+---
 
-bash
-Copiar
-Editar
-git clone https://github.com/hudsonhenriique/Pagina_Mercado_Pago.git
-Navegue até o diretório do projeto:
+## 🚀 Tecnologias Utilizadas
 
-bash
+- **HTML5** → Estruturação da página  
+- **CSS3** → Estilização e layout  
+- **JavaScript** → Funcionalidades interativas  
+
+---
+
+## 📦 Como Executar o Projeto
+
+1. **Clone este repositório**:
+   ```bash
+   git clone https://github.com/hudsonhenriique/Pagina_Mercado_Pago.git
+
+   Acesse a pasta do projeto:
+
+```bash
 Copiar
 Editar
 cd Pagina_Mercado_Pago
-Abra o arquivo index.html em seu navegador preferido.
+Abra o arquivo index.html no navegador.
 
 🛠️ Funcionalidades Implementadas
- Layout responsivo
-
- Animações de carregamento
-
- Integração com API de pagamentos (em desenvolvimento)
+✅ Layout responsivo
+✅ Animações de carregamento
+❌ Integração com API de pagamentos (em desenvolvimento)
 
 📈 Melhorias Futuras
  Implementar integração real com a API do Mercado Pago
@@ -42,7 +46,12 @@ Abra o arquivo index.html em seu navegador preferido.
  Otimizar performance para dispositivos móveis
 
 🤝 Contribuindo
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Contribuições são bem-vindas! Se quiser sugerir melhorias ou reportar problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+📫 Contato
+📧 Email: seuemail@email.com
+💼 LinkedIn
+
