@@ -28,6 +28,7 @@ A web page project inspired by Mercado Pago, developed to practice skills in **H
    ```bash
    cd Pagina_Mercado_Pago
    ```
+   
 # 🛠️ Implemented Features
 
 - ✅ **Responsive layout**  
