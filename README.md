@@ -1,64 +1,64 @@
+# 🏦 Mercado Pago Page
 
-# 🏦 Pagina Mercado Pago
+A web page project inspired by Mercado Pago, developed to practice skills in **HTML, CSS, and JavaScript**.
 
-Projeto de uma página web inspirada no Mercado Pago, desenvolvida com o objetivo de praticar habilidades em **HTML, CSS e JavaScript**.
+## 📸 Screenshot
 
-## 📸 Captura de Tela
-
-![Captura de Tela do Projeto](screenshot.PNG)
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-- **HTML5** → Estruturação da página  
-- **CSS3** → Estilização e layout  
-- **JavaScript** → Funcionalidades interativas  
+![Project Screenshot](screenshot.PNG)
 
 ---
 
-## 📦 Como Executar o Projeto
+## 🚀 Technologies Used
 
-1. **Clone este repositório**:
+- **HTML5** → Page structure  
+- **CSS3** → Styling and layout  
+- **JavaScript** → Interactive functionalities  
+
+---
+
+## 📦 How to Run the Project
+
+1. **Clone this repository**:
+
    ```bash
    git clone https://github.com/hudsonhenriique/Pagina_Mercado_Pago.git
    ```
 
-2. Acesse a pasta do projeto:
+3. Navigate to the project folder:
    ```bash
    cd Pagina_Mercado_Pago
    ```
-# 🛠️ Funcionalidades Implementadas
+# 🛠️ Implemented Features
 
-- ✅ **Layout responsivo**  
-- ✅ **Animações de carregamento**  
-- ❌ **Integração com API de pagamentos** (em desenvolvimento)  
+- ✅ **Responsive layout**  
+- ✅ **Loading animations**  
+- ❌ **Payment API integration**
+  
+---
+
+## 📈 Future Improvements
+
+- Implement real integration with the Mercado Pago API
+- Add unit tests
+- Optimize performance for mobile devices
 
 ---
 
-## 📈 Melhorias Futuras
+## 🤝 Contributing
 
-- Implementar integração real com a API do Mercado Pago  
-- Adicionar testes unitários  
-- Otimizar performance para dispositivos móveis  
-
----
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas!  
-Se quiser sugerir melhorias ou reportar problemas, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.  
+Contributions are welcome!
+If you’d like to suggest improvements or report issues, feel free to open an **issue** or submit a **pull request**.  
 
 ---
 
-## 📄 Licença
+## 📄 License
 
-Este projeto está sob a licença MIT.  
-Veja o arquivo **LICENSE** para mais detalhes.  
+This project is licensed under the MIT License.
+See the **LICENSE** file for more details.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - 📧 **Email**: hudson.henri10@gmail.com 
 - 💼 **LinkedIn**: (https://www.linkedin.com/in/hudsonhenri)  
